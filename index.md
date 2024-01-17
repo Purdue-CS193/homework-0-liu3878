@@ -2,4 +2,4 @@
 - lovely learning environment
 - no exams!
 - great instructors
-theme: jekyll-theme-tactile
+
